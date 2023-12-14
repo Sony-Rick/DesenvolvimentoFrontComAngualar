@@ -1,0 +1,41 @@
+
+<!DOCTYPE Html>
+<Html>
+<head>
+  <meta charset="utf-8">
+  <title>Textos e Poemas</title>
+</head>
+<body>
+  <header>
+    <img src="image-Perfil.jpg" alt="Imagem de perfil ilustrada">
+    <h1>Textos e Poemas </h1>
+  </header>
+  <section>
+    <header>
+    <h2>Post</h2>
+    </header>
+    <article>
+      <header>
+        <h3>Post #1</h3>
+        <img src="image-Teste.jpg" alt="Imagem teste">
+    </header>
+    <p>
+        Eu sou imperfeita. Você é imperfeito. Isso é um fato. Não se pode negar. Mas talvez, 2 imperfeitos se tornem mais perfeitos juntos do que separados. Então, pq não tentar
+        Já conheci várias que me prometeram me completar mas apenas arrancaram de mim tudo q elas cultivaram , mas se for vc estou disposto a tentar denovo , pq de todos os imperfeitos que eu conheci até chegar aqui em você , alguém mais que perfeito para me completar
+        Então eu irei tentar, ou melhor, vamos tentar. Vamos criar e recriar nossas histórias, nossas lembranças, nossas vidas. Pq por vc eu to disposta a fazer isso eu muito mais. Pq p mts pode não ser perfeito, mas p mim sempre será. Pq juntos somos fortes, juntos somos corajosos, juntos somos destemidos. E pq p mim, juntos somos perfeitos.
+          <a href="https://twitter.com/Moss_Quitinho" target="_blank">Perfil do Criadores</a>
+    </p>
+   </article>
+</section>
+<footer>
+    <ul>
+        <li>]
+            <a href="erickssommelgaco@gmail.com" target="_blank">erickssommelgaco@gmail.com</a>
+        </li>
+        <li>
+            <a href="https://twitter.com/Moss_Quitinho" target="_blank"></a>
+        </li></lo>
+    </ul>
+</footer>
+</body>
+</html>
