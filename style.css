@@ -1,6 +1,7 @@
 body{
     background-color: darkgrey ;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 900px ;
 }
 
 .photo{
@@ -39,7 +40,7 @@ body{
     margin-bottom: 15%;
 } 
 .post_image{
-    margin-bottom: %;
+    margin-bottom: 15%;
 }
 
 .contacts_post{
